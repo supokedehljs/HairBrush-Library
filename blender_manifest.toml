@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+
+id = "ring_slide"
+version = "0.9.0"
+name = "Ring Slide"
+tagline = "A sculpt brush that slides a topology ring along its captured contour"
+maintainer = "OpenAI"
+type = "add-on"
+blender_version_min = "5.1.0"
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Mesh"]
