@@ -1,4 +1,4 @@
-"""Topology and arc-length helpers for the Ring Slide prototype."""
+"""Topology and arc-length helpers for the Ring Slide brush."""
 
 from __future__ import annotations
 
